@@ -82,7 +82,6 @@ public class Simulacao_Thread {
             tempo();
             System.out.println("\n-----------------------\n");
         }
-        System.out.println("\nYEAHH!!!");
     }
     
     public static void tempo() {
